@@ -1,5 +1,7 @@
 # GP-50 PatchToEnglish
 
+![GP-50 Modded Interface](GP-50Modded.jpeg)
+
 Translates the Valeton GP-50 guitar processor firmware from Chinese to English.
 
 ## What This Tool Does
