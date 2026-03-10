@@ -89,7 +89,6 @@ Or search for "Valeton GP-50 firmware download" on your preferred search engine.
 
 ## Output
 
-The script creates a folder named **"GP-50 to English"** containing:
 - Patched firmware file with name: `<original>-PatchedToEnglish-v5.bin`
 
 ## How It Works
