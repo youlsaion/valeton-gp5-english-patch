@@ -128,7 +128,7 @@ powershell -ExecutionPolicy Bypass -File "GP-50-PatchToEnglish-v5.ps1" -input "f
 
 This is an open-source project. For issues and updates, visit the project repository.
 
-## For Non-Programmers
+## What is a computer?
 
 If you're not familiar with command-line tools:
 
@@ -136,7 +136,7 @@ If you're not familiar with command-line tools:
 2. Right-click the folder and select "Open Windows PowerShell"
 3. Type: `.\GP-50-PatchToEnglish-v5.ps1 -input "GP-50 Firmware V1.0.5.bin"`
 4. Press Enter
-5. Look in the "GP-50 to English" folder for your patched file
+5. Look in the folder for your patched file
 
 ---
 
